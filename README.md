@@ -5,11 +5,11 @@ Criado em plataforma React através do [Create React App](https://github.com/fac
 ## 📷 Preview
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="tela-principal" title="Tela Principal Login" src="src/assets/screenshots/Inter.png" width="900px"/>
+  <img alt="tela-principal" title="Tela Principal Login" src="src/assets/screenshots/Inter.png" width="800px"/>
 </p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="dashboard-app" title="Tela Principal Login" src="src/assets/screenshots/Inter (1).png" width="450px"/>
-  <img alt="tela-principal-criar-conta" title="Tela Principal Signup" src="src/assets/screenshots/Inter (2).png" width="450px"/>
+  <img alt="dashboard-app" title="Tela Principal Login" src="src/assets/screenshots/Inter (1).png" width="400px"/>
+  <img alt="tela-principal-criar-conta" title="Tela Principal Signup" src="src/assets/screenshots/Inter (2).png" width="400px"/>
 </p>
 
 ## 📖 Instruções
