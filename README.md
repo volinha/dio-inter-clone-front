@@ -2,7 +2,17 @@
 
 Criado em plataforma React através do [Create React App](https://github.com/facebook/create-react-app) durante a Semana Front-End do Banco Inter em parceria com a DIO.
 
-## Instruções
+## 📷 Preview
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="tela-principal" title="Tela Principal Login" src="src/assets/screenshots/Inter.png" width="900px"/>
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="dashboard-app" title="Tela Principal Login" src="src/assets/screenshots/Inter (1).png" width="450px"/>
+  <img alt="tela-principal-criar-conta" title="Tela Principal Signup" src="src/assets/screenshots/Inter (2).png" width="450px"/>
+</p>
+
+## 📖 Instruções
 
 - Clonar este repositório:
 
@@ -21,9 +31,11 @@ Caso não abra automaticamente, basta acessar o endereço [http://localhost:3000
 
 A página atualizará automaticamente em caso de alterações, também é possível ver erros no console de desenvolvimento.
 
-## Principais Ferramentas Utilizadas
+## 🛠️ Principais Frameworks/IDEs/Libs
 
+- [date-fns](https://date-fns.org)
 - [React](https://pt-br.reactjs.org)
+- [react-icons](https://react-icons.github.io/react-icons/)
 - [React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)
 - [Styled Components](https://styled-components.com)
 - [TypeScript](https://www.typescriptlang.org)
@@ -37,7 +49,7 @@ Disponível em [dio-inter-backend](https://github.com/volinha/dio-inter-backend)
 
 Disponível em breve.
 
-#### Desenvolvido por Vinícius Fernandes
+#### 💻 Desenvolvido por Vinícius Fernandes (viniciusfernandesdev@gmail.com)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/viniciusfvb)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/viniciusfernandesdev/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/volafernandes)
