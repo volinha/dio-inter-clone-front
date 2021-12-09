@@ -1,6 +1,6 @@
 # Frontend App Inter - Semana Front-End Inter/DIO
 
-Criado em plataforma React através do [Create React App](https://github.com/facebook/create-react-app) durante a Semana Front-End do Banco Inter em parceria com a DIO.
+Criado em plataforma React através do [Create React App](https://github.com/facebook/create-react-app) durante a Semana Front-End do [Banco Inter](https://www.bancointer.com.br) em parceria com a [DIO](https://digitalinnovation.one).
 
 ## 📷 Preview
 
