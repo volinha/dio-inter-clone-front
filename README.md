@@ -47,7 +47,7 @@ Disponível em [dio-inter-backend](https://github.com/volinha/dio-inter-backend)
 
 ## Projeto Final App Inter - Semana Front-End Inter/DIO
 
-Disponível em breve.
+Disponível em [inter-app](https://github.com/volinha/inter-app).
 
 #### 💻 Desenvolvido por Vinícius Fernandes
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/viniciusfvb)
